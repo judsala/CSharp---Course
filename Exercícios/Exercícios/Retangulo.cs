@@ -5,7 +5,7 @@ namespace Exercícios
     internal class Retangulo
     {
         //Exercício 1
-        /*public double Altura;
+        public double Altura;
         public double Largura;
 
         public double Area()
@@ -21,10 +21,10 @@ namespace Exercícios
         public double Diagonal()
         {
             return Math.Sqrt(Altura * Altura + Largura * Largura);
-        }*/
+        }
 
         //Exercício 2
-        /*public string Nome;
+        public string Nome;
         public double SalarioBruto;
         public double Imposto;
 
@@ -43,9 +43,6 @@ namespace Exercícios
             return Nome
             + ", R$ "
             + SalarioLiquido().ToString("F2", CultureInfo.InvariantCulture); 
-        }*/
-
-        //Exercício 3
-
+        }
     }
 }
