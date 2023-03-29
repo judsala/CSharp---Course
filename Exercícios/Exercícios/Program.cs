@@ -2,7 +2,7 @@
 using System.Globalization;
 
 //Exercício 1
-/*Retangulo ret = new Retangulo();
+Retangulo ret = new Retangulo();
 
 Console.WriteLine("Entre com a largura e a altura do retângulo: ");
 ret.Altura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
@@ -10,11 +10,11 @@ ret.Largura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
 Console.WriteLine("Area = " + ret.Area().ToString("F2", CultureInfo.InvariantCulture));
 Console.WriteLine("Perímetro = " + ret.Perimetro().ToString("F2", CultureInfo.InvariantCulture));
-Console.WriteLine("Diagonal = " + ret.Diagonal().ToString("F2", CultureInfo.InvariantCulture));*/
+Console.WriteLine("Diagonal = " + ret.Diagonal().ToString("F2", CultureInfo.InvariantCulture));
 
 //Exercício 2
 
-/*Retangulo sal = new Retangulo();
+Retangulo sal = new Retangulo();
 
 Console.Write("Nome: ");
 sal.Nome = Console.ReadLine();
@@ -32,7 +32,4 @@ double percent = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 sal.AumentarSalario(percent);
 
 Console.WriteLine();
-Console.WriteLine("Dados atualizados: " + sal);*/
-
-//Exercício 3
-
+Console.WriteLine("Dados atualizados: " + sal);
