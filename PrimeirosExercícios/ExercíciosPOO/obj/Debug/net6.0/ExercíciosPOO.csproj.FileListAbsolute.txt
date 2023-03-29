@@ -1,0 +1,15 @@
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\ExercíciosPOO\ExercíciosPOO\bin\Debug\net6.0\ExercíciosPOO.exe
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\ExercíciosPOO\ExercíciosPOO\bin\Debug\net6.0\ExercíciosPOO.deps.json
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\ExercíciosPOO\ExercíciosPOO\bin\Debug\net6.0\ExercíciosPOO.runtimeconfig.json
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\ExercíciosPOO\ExercíciosPOO\bin\Debug\net6.0\ExercíciosPOO.dll
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\ExercíciosPOO\ExercíciosPOO\bin\Debug\net6.0\ExercíciosPOO.pdb
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\ExercíciosPOO\ExercíciosPOO\obj\Debug\net6.0\ExercíciosPOO.csproj.AssemblyReference.cache
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\ExercíciosPOO\ExercíciosPOO\obj\Debug\net6.0\ExercíciosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\ExercíciosPOO\ExercíciosPOO\obj\Debug\net6.0\ExercíciosPOO.AssemblyInfoInputs.cache
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\ExercíciosPOO\ExercíciosPOO\obj\Debug\net6.0\ExercíciosPOO.AssemblyInfo.cs
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\ExercíciosPOO\ExercíciosPOO\obj\Debug\net6.0\ExercíciosPOO.csproj.CoreCompileInputs.cache
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\ExercíciosPOO\ExercíciosPOO\obj\Debug\net6.0\ExercíciosPOO.dll
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\ExercíciosPOO\ExercíciosPOO\obj\Debug\net6.0\refint\ExercíciosPOO.dll
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\ExercíciosPOO\ExercíciosPOO\obj\Debug\net6.0\ExercíciosPOO.pdb
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\ExercíciosPOO\ExercíciosPOO\obj\Debug\net6.0\ExercíciosPOO.genruntimeconfig.cache
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\ExercíciosPOO\ExercíciosPOO\obj\Debug\net6.0\ref\ExercíciosPOO.dll

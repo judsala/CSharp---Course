@@ -1,0 +1,15 @@
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Exercícios4\Exercícios4\obj\Debug\net6.0\Exercícios4.csproj.AssemblyReference.cache
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Exercícios4\Exercícios4\obj\Debug\net6.0\Exercícios4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Exercícios4\Exercícios4\obj\Debug\net6.0\Exercícios4.AssemblyInfoInputs.cache
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Exercícios4\Exercícios4\obj\Debug\net6.0\Exercícios4.AssemblyInfo.cs
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Exercícios4\Exercícios4\obj\Debug\net6.0\Exercícios4.csproj.CoreCompileInputs.cache
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Exercícios4\Exercícios4\bin\Debug\net6.0\Exercícios4.exe
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Exercícios4\Exercícios4\bin\Debug\net6.0\Exercícios4.deps.json
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Exercícios4\Exercícios4\bin\Debug\net6.0\Exercícios4.runtimeconfig.json
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Exercícios4\Exercícios4\bin\Debug\net6.0\Exercícios4.dll
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Exercícios4\Exercícios4\bin\Debug\net6.0\Exercícios4.pdb
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Exercícios4\Exercícios4\obj\Debug\net6.0\Exercícios4.dll
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Exercícios4\Exercícios4\obj\Debug\net6.0\refint\Exercícios4.dll
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Exercícios4\Exercícios4\obj\Debug\net6.0\Exercícios4.pdb
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Exercícios4\Exercícios4\obj\Debug\net6.0\Exercícios4.genruntimeconfig.cache
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Exercícios4\Exercícios4\obj\Debug\net6.0\ref\Exercícios4.dll

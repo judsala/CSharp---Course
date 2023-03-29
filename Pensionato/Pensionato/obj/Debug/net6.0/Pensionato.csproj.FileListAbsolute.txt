@@ -1,0 +1,15 @@
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Pensionato\Pensionato\bin\Debug\net6.0\Pensionato.exe
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Pensionato\Pensionato\bin\Debug\net6.0\Pensionato.deps.json
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Pensionato\Pensionato\bin\Debug\net6.0\Pensionato.runtimeconfig.json
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Pensionato\Pensionato\bin\Debug\net6.0\Pensionato.dll
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Pensionato\Pensionato\bin\Debug\net6.0\Pensionato.pdb
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Pensionato\Pensionato\obj\Debug\net6.0\Pensionato.csproj.AssemblyReference.cache
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Pensionato\Pensionato\obj\Debug\net6.0\Pensionato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Pensionato\Pensionato\obj\Debug\net6.0\Pensionato.AssemblyInfoInputs.cache
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Pensionato\Pensionato\obj\Debug\net6.0\Pensionato.AssemblyInfo.cs
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Pensionato\Pensionato\obj\Debug\net6.0\Pensionato.csproj.CoreCompileInputs.cache
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Pensionato\Pensionato\obj\Debug\net6.0\Pensionato.dll
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Pensionato\Pensionato\obj\Debug\net6.0\refint\Pensionato.dll
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Pensionato\Pensionato\obj\Debug\net6.0\Pensionato.pdb
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Pensionato\Pensionato\obj\Debug\net6.0\Pensionato.genruntimeconfig.cache
+C:\Users\dripl\OneDrive\Desktop\Udemy - C#\Pensionato\Pensionato\obj\Debug\net6.0\ref\Pensionato.dll
