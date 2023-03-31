@@ -12,7 +12,7 @@ Tópicos do curso:
 - Construtores, this, sobrecarga e encapsulamento ✅
 - Comportamento de memória, arrays e listas ✅
 - Enumeração e composição ✅
-- Herança e polimorfismo
+- Herança e polimorfismo ✅
 - Tratamento de exceções
 - Projeto: Sistema de jogo de xadrez
 - Trabalhando com arquivos
