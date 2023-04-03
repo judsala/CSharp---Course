@@ -13,9 +13,9 @@ Tópicos do curso:
 - Comportamento de memória, arrays e listas ✅
 - Enumeração e composição ✅
 - Herança e polimorfismo ✅
-- Tratamento de exceções
+- Tratamento de exceções ✅
 - Projeto: Sistema de jogo de xadrez
-- Trabalhando com arquivos
+- Trabalhando com arquivos ✅
 - Interfaces
 - Generics, Set e Dictionary
 - Lambda, delegates e LINQ
