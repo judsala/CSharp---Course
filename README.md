@@ -16,7 +16,7 @@ Tópicos do curso:
 - Tratamento de exceções ✅
 - Projeto: Sistema de jogo de xadrez
 - Trabalhando com arquivos ✅
-- Interfaces
-- Generics, Set e Dictionary
+- Interfaces ✅
+- Generics, Set e Dictionary ✅
 - Lambda, delegates e LINQ
 - Projeto: Sistema Web com ASP.NET Core MVC e Entity Framework
