@@ -18,5 +18,5 @@ Tópicos do curso:
 - Trabalhando com arquivos ✅
 - Interfaces ✅
 - Generics, Set e Dictionary ✅
-- Lambda, delegates e LINQ
-- Projeto: Sistema Web com ASP.NET Core MVC e Entity Framework
+- Lambda, delegates e LINQ ✅
+- Projeto: Sistema Web com ASP.NET Core MVC e Entity Framework ✅
